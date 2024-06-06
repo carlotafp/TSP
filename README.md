@@ -1,6 +1,6 @@
 # Repository of the Project "Traveling Salesman Problem"
 
-This repository contains all the diferent algorithms used to solve the TSP
+This repository contains all the different algorithms used to solve the TSP
 
 ## Repository Authors:
 
